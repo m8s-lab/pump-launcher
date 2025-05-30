@@ -75,6 +75,9 @@ Token CA: https://solscan.io/account/jV7diGWdEcveTDPfLjWqEToJz428E195WXyvbPGpump
 Bundle buy tx(last buy on pump.fun): https://solscan.io/tx/3CssBSf5CYdvBrBUh5aY6HNYq9nWYxrkfgxx7HBN19Ar8bz53GbHL44Bi4tFNHw1z6q8NnYe6VktSUnCrDFsshYq<br>
 Migrate tx(first buy on pumpswap): https://solscan.io/tx/3cfWwqFTbP7bz4BPqky9guJyZSxsB4CZUUko5kE4Si1FTa8KHdcjfSayvTQxcmjgeQNj3Hpeyvh2VrjSaeahDQA9<br>
 
+![Screenshot 2025-05-31 050808](https://github.com/user-attachments/assets/8d25dadf-c88e-4876-9160-9eb79aeb9977)
+
+
 ## Contact
 
 * TG: https://t.me/microgift88
